@@ -4,6 +4,8 @@
 
 ##### Meu nome é Marcelo Soares e trabalho como Front-End desde 2012 e atualmente trabalho na Timepix, uma produtora digital de Santos-SP.
 
+:computer: [ LinkedIn](https://www.linkedin.com/in/marcelosrp/)
+
 <!--
 **marcelosrp/marcelosrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
