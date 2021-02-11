@@ -1,22 +1,20 @@
-![this is fine](https://i.pinimg.com/originals/10/7a/97/107a97ca5bd4a571edcebec54a66fc32.jpg)
+## Olá 👋
 
-### Olá 👋
+Bem-vindo ao meu github
 
-##### Meu nome é Marcelo Soares e trabalho como Front-End desde 2012 e atualmente trabalho na Timepix, uma produtora digital de Santos-SP.
+### Quem sou eu:
+Meu nome é Marcelo Soares, tenho 32 anos e moro em Santos-SP
 
-:computer: [ LinkedIn](https://www.linkedin.com/in/marcelosrp/)
+### O que faço:
+Sou programador desde 2011 e desde 2013 trabalhado 100% como front-end.
+Atualmente faço parte da [Timepix](https://timepix.com.br), uma agência digital de Santos.
 
-<!--
-**marcelosrp/marcelosrp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Stacks:
+Atualmente trabalho com Reactjs + styled components mas também possuo experiência em Vuejs.
+Além disso domino o ecossistema front-end (html/css/js), bootstrap e material UI, Git e gitflow.
 
-Here are some ideas to get you started:
+### Vamos conversar?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+:envelope:&nbsp; [E-mail](mailto:soares.srp@gmail.com)
+<br />
+:computer:&nbsp; [LinkedIn](https://www.linkedin.com/in/marcelosrp/)
