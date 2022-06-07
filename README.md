@@ -7,7 +7,7 @@ Meu nome é Marcelo Soares, tenho 32 anos e moro em Santos-SP
 
 ### O que faço:
 Sou programador desde 2011 e desde 2013 trabalhado 100% como front-end.
-Atualmente faço parte da [Timepix](https://timepix.com.br), uma agência digital de Santos.
+Atualmente faço parte da [Exame](https://exame.com)
 
 ### Stacks:
 Atualmente trabalho com Reactjs + styled components mas também possuo experiência em Vuejs.
