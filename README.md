@@ -2,16 +2,10 @@
 
 Bem-vindo ao meu github
 
-### Quem sou eu:
-Meu nome é Marcelo Soares, tenho 32 anos e moro em Santos-SP
-
 ### O que faço:
-Sou programador desde 2011 e desde 2013 trabalhado 100% como front-end.
-Atualmente faço parte da [Exame](https://exame.com)
+Programador Front-End atuando com NextJS e ReactJS. Atualmente faço parte do time da [Exame.com](https://exame.com)
 
-### Stacks:
-Atualmente trabalho com Reactjs + styled components mas também possuo experiência em Vuejs.
-Além disso domino o ecossistema front-end (html/css/js), bootstrap e material UI, Git e gitflow.
+Além disso domino o ecossistema front-end (html/css/js), bootstrap e material UI, Git e gitflow e um conhecimentos básicos em VueJS, NodeJS e PHP.
 
 ### Vamos conversar?
 
