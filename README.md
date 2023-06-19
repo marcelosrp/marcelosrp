@@ -5,7 +5,7 @@ Bem-vindo ao meu github
 ### O que faço:
 Programador Front-End atuando com NextJS e ReactJS. Atualmente faço parte do time da [Exame.com](https://exame.com)
 
-Além disso domino o ecossistema front-end (html/css/js), bootstrap e material UI, Git e gitflow e um conhecimentos básicos em VueJS, NodeJS e PHP.
+Além disso domino o ecossistema front-end (html/css/js), tailwind, bootstrap e material UI, Git e gitflow e um conhecimentos básicos em VueJS, NodeJS e PHP.
 
 ### Vamos conversar?
 
